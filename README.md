@@ -1,2 +1,2 @@
 # Binary-search
-This operates on the divide-and-conquer paradigm
+Binary search operates on the divide-and-conquer paradigm. The algorithm begins by comparing the target value with the middle element of the sorted dataset. If the target matches the middle element, the search is successful. If the target is smaller, the algorithm continues the search in the left sub-array; if larger, it proceeds to the right sub-array. This process repeats until the target is found or the search space becomes empty.
